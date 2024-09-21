@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>السيرة الذاتية - حمدي عبد الجليل</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            direction: rtl;
+            text-align: right;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 5px 0;
+        }
+        .contact {
+            margin-bottom: 20px;
+        }
+        .experience, .education, .skills {
+            margin-bottom: 40px;
+        }
+        .job-title {
+            font-weight: bold;
+        }
+        .job-details {
+            margin-right: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>حمدي عبد الجليل</h1>
+        <p>الموقع: القصيم، المملكة العربية السعودية | الهاتف: +966 530123017 | البريد الإلكتروني: Hamdi.Abdelgalil@gmail.com</p>
+
+        <section class="summary">
+            <h2>الملخص</h2>
+            <p>بصفتي متخصصًا في الجودة والسلامة والصحة المهنية ملتزمًا بشدة بتحقيق التميز والقيادة في التحسين المستمر، لدي خبرة قوية في إدارة الجودة والصيانة والسلامة في مجالات متعددة. أبحث عن وظيفة تتحدى مهاراتي وتسمح لي بإضافة قيمة كبيرة للمؤسسة.</p>
+        </section>
+
+        <section class="experience">
+            <h2>الخبرة (6 سنوات، 2 أشهر)</h2>
+            
+            <div class="job">
+                <p class="job-title">مدير الجودة والتشغيل والصيانة</p>
+                <p>شركة رأفا لخدمات السيارات، القصيم، السعودية | يناير 2024 - حتى الآن</p>
+                <ul class="job-details">
+                    <li>مراقبة وضبط الجودة</li>
+                    <li>وضع خطط استراتيجية</li>
+                    <li>إدارة العمليات التشغيلية</li>
+                    <li>تطوير وتنفيذ خطط الصيانة الوقائية</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <p class="job-title">مدير الجودة والصحة والسلامة</p>
+                <p>شركة محطات نهل، القصيم، السعودية | ديسمبر 2022 - يناير 2024</p>
+                <ul class="job-details">
+                    <li>مراقبة وضبط الجودة</li>
+                    <li>تطبيق معايير الصحة والسلامة المهنية</li>
+                </ul>
+            </div>
+
+            <div class="job">
+                <p class="job-title">مهندس تشغيل وصيانة</p>
+                <p>شركة مسكين، الخرطوم، السودان | يناير 2018 - 2021</p>
+                <ul class="job-details">
+                    <li>صيانة الأجزاء الميكانيكية</li>
+                    <li>إدارة عمليات التشغيل والصيانة</li>
+                    <li>وضع خطط الصيانة الوقائية</li>
+                </ul>
+            </div>
+        </section>
+
+        <section class="education">
+            <h2>التعليم</h2>
+            <ul>
+                <li>بكالوريوس في الهندسة الميكاترونية والميكانيكية، جامعة المشرق، الخرطوم، السودان، ديسمبر 2020</li>
+                <li>دبلوم في الهندسة الميكانيكية، جامعة السودان للعلوم والتكنولوجيا، ديسمبر 2017</li>
+            </ul>
+        </section>
+
+        <section class="skills">
+            <h2>المهارات</h2>
+            <ul>
+                <li>ضبط ومراقبة الجودة</li>
+                <li>التحكم في الصحة والسلامة البيئية</li>
+                <li>إدارة الصيانة والتشغيل</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
